@@ -1,6 +1,5 @@
 body {
     background-color: black;
-    color: white;
 }
 @font-face {
     font-family: AdventPro;
@@ -26,7 +25,16 @@ body {
 
 #todo-title-text {
     font-family: AdventPro;
+    font-weight: bold;
     text-align: center;
     padding: 10px;
     text-transform: uppercase;
+}
+
+#lead-text {
+    font-family: AdventPro;
+    padding: 23px;
+    text-align: center;
+    text-decoration: underline;
+
 }
