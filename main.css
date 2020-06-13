@@ -56,3 +56,7 @@ body {
 .center {
     text-align: center;
 }
+
+.submit-todo {
+    margin-top: 3px;
+}
