@@ -19,6 +19,8 @@ body {
     background-color: #ffffff;
 }
 
+
+
 .todo-header {
     background-color: rgba(255, 72, 0, 0.67);
 }
@@ -38,6 +40,19 @@ body {
 
 }
 
+#todo-input {
+    border: none;
+    border-bottom: 2px solid rgba(255, 72, 0, 0.67);
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-family: AdventPro  ;
+}
+
+#todo-input:focus {
+    border: none;
+    border-bottom: 2px solid black;
+    font-size: 30px;
+}
 .center {
     text-align: center;
 }
