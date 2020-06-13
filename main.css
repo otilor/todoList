@@ -67,7 +67,10 @@ body {
     font-family: AdventPro;
     cursor: pointer;
 }
+.todo-items-wrapper {
+    font-family: AdventPro;
 
+}
 .todo-items {
-
+    margin: 10px;
 }
