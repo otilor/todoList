@@ -58,10 +58,12 @@ body {
 }
 
 .submit-todo {
-    margin-top: 3px;
+    margin: 12px;
     position: relative;
     background-color: rgba(255, 72, 0, 0.67);
-    color: #ffffff;
+    color: #000000;
     border: 0;
-    padding: 5px;
+    padding: 15px 15px 15px 15px;
+    font-family: AdventPro;
+    cursor: pointer;
 }
