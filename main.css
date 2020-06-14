@@ -1,6 +1,7 @@
 body {
     background-color: black;
 }
+
 @font-face {
     font-family: AdventPro;
     src: url(AdventPro-SemiBold.ttf);
@@ -16,7 +17,7 @@ body {
     left: 0;
     width: 500px;
     height: 500px;
-    background-color: #ffffff;
+    background-color: #fff;
 }
 
 
@@ -45,7 +46,7 @@ body {
     border-bottom: 2px solid rgba(255, 72, 0, 0.67);
     font-size: 30px;
     color: rgb(0, 0, 0);
-    font-family: AdventPro  ;
+    font-family: AdventPro;
 }
 
 #todo-input:focus {
@@ -53,6 +54,7 @@ body {
     border-bottom: 2px solid black;
     font-size: 30px;
 }
+
 .center {
     text-align: center;
 }
@@ -61,16 +63,18 @@ body {
     margin: 12px;
     position: relative;
     background-color: rgba(255, 72, 0, 0.67);
-    color: #000000;
+    color: #000;
     border: 0;
     padding: 15px 15px 15px 15px;
     font-family: AdventPro;
     cursor: pointer;
 }
+
 .todo-items-wrapper {
     font-family: AdventPro;
 
 }
+
 .todo-items {
     margin: 10px;
 
