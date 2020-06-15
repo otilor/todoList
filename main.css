@@ -135,7 +135,7 @@ body {
 
 /* Show the checkmark when checked */
 .container input:checked ~ .checkmark:after {
-      display:: block;
+      display: block;
 }
 
 /* Style the checkmark/indicator */
