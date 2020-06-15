@@ -69,6 +69,8 @@ body {
 }
 .todo-items-wrapper {
     font-family: AdventPro;
+      border: 7px solid rgba(255, 72, 0, 0.67);
+      margin: 2px;
 
 }
 .todo-items {
